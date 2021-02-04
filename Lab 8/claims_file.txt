@@ -1,0 +1,13 @@
+
+
+Staff #1
+Name	: Nadia
+Claims	: RM 420.00
+
+Staff #2
+Name	: Nithya
+Claims	: RM 84.00
+
+Staff #3
+Name	: Nancy
+Claims	: RM 630.00

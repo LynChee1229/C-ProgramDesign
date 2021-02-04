@@ -1,0 +1,5 @@
+
+X1101 	4.27 	Excellent
+X2009 	3.27 	Good
+X3007 	4.17 	Excellent
+X4001 	2.73 	Satisfactory
